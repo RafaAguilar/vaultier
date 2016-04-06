@@ -5,6 +5,7 @@ setup(
     name="Vaultier",
     install_requires=[
         'BeautifulSoup==3.2.1',
+        'South==1.0.2',
         'Django==1.7.3',
         'argparse==1.2.1',
         'cssutils==1.0',
@@ -18,7 +19,7 @@ setup(
         'psycopg2==2.5.1',
         'pycrypto==2.6.1',
         'pynliner==0.5.0',
-        'six==1.4.1',
+        'six==1.9',
         'wsgiref==0.1.2',
         'raven==5.0.0',
         'pytz==2014.7',
